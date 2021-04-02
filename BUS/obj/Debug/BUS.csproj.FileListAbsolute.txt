@@ -1,0 +1,15 @@
+C:\Users\LongBody\source\repos\BUS\bin\Debug\BUS.exe.manifest
+C:\Users\LongBody\source\repos\BUS\bin\Debug\BUS.application
+C:\Users\LongBody\source\repos\BUS\bin\Debug\BUS.exe
+C:\Users\LongBody\source\repos\BUS\bin\Debug\BUS.pdb
+C:\Users\LongBody\source\repos\BUS\bin\Debug\DAO.exe
+C:\Users\LongBody\source\repos\BUS\bin\Debug\DAO.pdb
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.exe.manifest
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.application
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.exe
+C:\Users\LongBody\source\repos\BUS\obj\Debug\BUS.pdb

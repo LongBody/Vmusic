@@ -1,0 +1,7 @@
+C:\Users\LongBody\source\repos\DTO\bin\Debug\DTO.exe
+C:\Users\LongBody\source\repos\DTO\bin\Debug\DTO.pdb
+C:\Users\LongBody\source\repos\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\LongBody\source\repos\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\LongBody\source\repos\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LongBody\source\repos\DTO\obj\Debug\DTO.exe
+C:\Users\LongBody\source\repos\DTO\obj\Debug\DTO.pdb

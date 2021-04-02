@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<connectionStrings>
+		<add name="DBConnect" connectionString="Data Source=localhost;Initial Catalog=Vmusic;Integrated Security=True" providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+	<runtime>
+		<legacyCorruptedStateExceptionsPolicy enabled="true"/>
+	</runtime>
+	<system.net>
+		<mailSettings>
+			<smtp from="Sender's display name &lt;sender_email@domain.com&gt;">
+				<network host="mailserver.yourdomain.com" port="25" userName="longnthe140271@fpt.edu.vn" password="lasvegasbody30112k" defaultCredentials="false"/>
+			</smtp>
+		</mailSettings>
+	</system.net>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>
