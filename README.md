@@ -1,7 +1,5 @@
-"# Vmusic"
-
 <img src="./Vmusic/image//vmusic1.png" style="height:40px"/>
-<p>Vmusic  (Listen , download , upload songs )</p>
+<strong>Vmusic  (Listen , download , upload songs )</strong>
 
 <h2>Information</h2>
 Tech : C# Winform (Three layer architecture)<br/>
@@ -17,7 +15,7 @@ Database : SQL <br/>
 
 <h2>Examples</h2>
 <img src="./Vmusic/image//vmusic2.png" style="height:300px , margin-bottom:10px"/>
-<img src="../Vmusic/image//vmusic3.png" style="height:300px ; margin-bottom:10px"/>
+<img src="../Vmusic/Vmusic/image/vmusic3.png" style="height:300px ; margin-bottom:10px"/>
 
 <img src="./Vmusic/image//vmusic4.png" style="height:300px; margin-bottom:10px"/>
 <img src="./Vmusic/image//vmusic5.png" style="height:300px;margin-bottom:10px"/>
